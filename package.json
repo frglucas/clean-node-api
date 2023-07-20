@@ -19,6 +19,7 @@
   "homepage": "https://github.com/frglucas/clean-node-api#readme",
   "devDependencies": {
     "@types/node": "^20.4.2",
+    "eslint-config-standard-with-typescript": "^36.1.0",
     "git-commit-msg-linter": "^5.0.4",
     "typescript": "^5.1.6"
   }
